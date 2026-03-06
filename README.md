@@ -36,14 +36,14 @@ Full report saved to MARKETING-AUDIT.md
 ### One-Command Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-marketing-/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/pottertech/ai-marketing-openclaw/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/zubair-trabzada/ai-marketing-.git
-cd ai-marketing-
+git clone https://github.com/pottertech/ai-marketing-openclaw.git
+cd ai-marketing-openclaw
 ./install.sh
 ```
 
