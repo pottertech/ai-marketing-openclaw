@@ -3,7 +3,7 @@
 
 # AI Marketing Suite for AI Agents
 
-A comprehensive marketing analysis and automation skill system for [ Code](https://docs.anthropic.com/en/docs/-code). Audit any website's marketing, generate copy, build email sequences, create content calendars, analyze competitors, and produce client-ready PDF reports — all from your terminal.
+A comprehensive marketing analysis and automation skill system for AI Agents. Audit any website's marketing, generate copy, build email sequences, create content calendars, analyze competitors, and produce client-ready PDF reports — all from your terminal.
 
 **Built for entrepreneurs, agency builders, and solopreneurs who want to sell marketing services powered by AI.**
 
