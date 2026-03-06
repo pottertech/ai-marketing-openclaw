@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner.svg" alt="AI Marketing Suite for Claude Code" width="100%">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6eb9cfec-0d81-456d-8cd5-250c49736e8b" />
+
 
 # AI Marketing Suite for Claude Code
 
